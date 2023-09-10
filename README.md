@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Arl-Kim
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Kotlin and Python. 
-- 💞️ I’m looking to collaborate on current JavaScript, Java, Kotlin and Python Projects
-- 📫 How to reach me ? Let's connect here...
+- 👀 I’m Interested In Software Engineering
+- 🌱 I’m Currently Learning Kotlin && Python. 
+- 💞️ I’m Looking To Collaborate On Current JavaScript, Java, Kotlin && Python Projects
+- 📫 How To Reach Me ? Let's Connect Here...
 
 <!---
 Arl-Kim/Arl-Kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
