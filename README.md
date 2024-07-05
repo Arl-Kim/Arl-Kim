@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arl-Kim
 - 👀 I’m Interested In Agile Software Engineering
 - 🌱 I’m Currently Learning Kotlin && Python. 
-- 💞️ I’m Looking To Collaborate On Current JavaScript, Java, Kotlin && Python Projects
+- 💞️ I’m Looking To Collaborate On Current JavaScript, Java, Kotlin, Python & MERN Stack Projects
 - 📫 How To Reach Me ? Let's Connect Here...
 
 <!---
